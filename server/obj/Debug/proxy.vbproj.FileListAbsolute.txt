@@ -1,0 +1,10 @@
+C:\HTTP\UQLibraryNodeProxy\proxy\bin\Debug\TypeScript.exe.config
+C:\HTTP\UQLibraryNodeProxy\proxy\obj\Debug\proxy.vbprojResolveAssemblyReference.cache
+C:\HTTP\UQLibraryNodeProxy\proxy\obj\Debug\TypeScript.Resources.resources
+C:\HTTP\UQLibraryNodeProxy\proxy\obj\Debug\proxy.vbproj.GenerateResource.Cache
+C:\HTTP\UQLibraryNodeProxy\proxy\obj\Debug\TypeScript.xml
+C:\HTTP\UQLibraryNodeProxy\proxy\bin\Debug\TypeScript.exe
+C:\HTTP\UQLibraryNodeProxy\proxy\bin\Debug\TypeScript.pdb
+C:\HTTP\UQLibraryNodeProxy\proxy\bin\Debug\TypeScript.xml
+C:\HTTP\UQLibraryNodeProxy\proxy\obj\Debug\TypeScript.exe
+C:\HTTP\UQLibraryNodeProxy\proxy\obj\Debug\TypeScript.pdb

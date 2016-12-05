@@ -1,0 +1,1 @@
+npm install babel-core babel-preset-babili html-minifier clean-css

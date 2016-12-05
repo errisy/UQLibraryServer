@@ -1,0 +1,4 @@
+C:\HTTP\TypeScript\TypeScript\bin\Debug\TypeScript.exe.config
+C:\HTTP\TypeScript\TypeScript\obj\Debug\TypeScript.vbprojResolveAssemblyReference.cache
+C:\HTTP\TypeScript\TypeScript\obj\Debug\TypeScript.Resources.resources
+C:\HTTP\TypeScript\TypeScript\obj\Debug\TypeScript.vbproj.GenerateResource.Cache

@@ -1,0 +1,56 @@
+{
+  "jsOut": "dist/app.js",
+  "cssOut": "dist/styles.css",
+  "files": [
+    {
+      "name": "index.html",
+      "action": "html",
+      "out": "dist/index.html"
+    },
+    {
+      "name": "styles.css",
+      "action": "css",
+      "out":  "dist/styles.css"
+    },
+    {
+      "name": "js/polyfill.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/jquery-3.1.1.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/es6-promise.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/angular.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/angular-animate.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/angular-aria.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/angular-messages.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/angular-material.min.js",
+      "action": "in"
+    },
+    {
+      "name": "js/moment.min.js",
+      "action": "in"
+    },
+    {
+      "name": "app.js",
+      "action": "bang"
+    }
+  ]
+}
